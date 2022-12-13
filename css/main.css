@@ -177,11 +177,11 @@ main {
     margin: auto;
     border-radius: 50%;
     border: #ffc514 3px solid;
-    margin-top: 55px}
+    margin-top: 75px}
   .about-info .bio {
     grid-area: bio;
     font-size: 1.5rem;
-    margin-top: 60px}
+    margin-top: 80px}
     
 .boxes {
   display: flex;
